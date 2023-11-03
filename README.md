@@ -1,11 +1,6 @@
 
 # Cohort Characterisation and Clustering in Profound Hypotension
 
-Authors: 
-
-1. Abylaikhan Bexeit - 1445804
-2. Ruotong Zhao - 1076714
-
 This repository is for the MLH Final Project, which focuses on classifying and predicting medical information using various machine learning techniques. 
 ## Contents
 
@@ -16,7 +11,12 @@ This repository is for the MLH Final Project, which focuses on classifying and p
 ## General Nature of the Solution
 
 ### **Data Retrieval**
+ 
+We have utilized the Mimic-IV database to establish our patient cohort. To obtain this cohort, follow these steps:
 
+1. Load the database into Google Big Query.
+
+2. Modify the `project_id` variable in the program file with the appropriate value obtained from Google Big Query.
 
 
 ### **Data Processing**
@@ -106,6 +106,12 @@ Operating System: Any modern operating system such as Windows, MacOS, Linux, etc
 CPU: Intel core i3 and higher is desirable but not mandatory
 
 ## Acknowledgements
+
+Authors: 
+
+1. Abylaikhan Bexeit - 1445804
+2. Ruotong Zhao - 1076714
+3. Aadesh Samdaria - 1363757
 
 ## Support
 
