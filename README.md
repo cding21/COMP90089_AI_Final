@@ -1,6 +1,12 @@
 
 # Cohort Characterisation and Clustering in Profound Hypotension
 
+Authors: 
+
+1. Abylaikhan Bexeit - 1445804
+2. Ruotong Zhao - 1076714
+3. Aadesh Samdaria - 1363757
+
 This repository is for the MLH Final Project, which focuses on classifying and predicting medical information using various machine learning techniques. 
 ## Contents
 
@@ -106,12 +112,6 @@ Operating System: Any modern operating system such as Windows, MacOS, Linux, etc
 CPU: Intel core i3 and higher is desirable but not mandatory
 
 ## Acknowledgements
-
-Authors: 
-
-1. Abylaikhan Bexeit - 1445804
-2. Ruotong Zhao - 1076714
-3. Aadesh Samdaria - 1363757
 
 ## Support
 
