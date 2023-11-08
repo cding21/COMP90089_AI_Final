@@ -1,5 +1,5 @@
 
-# Cohort Characterisation and Clustering in Profound Hypotension
+# Machine Learning Applications for Health (COMP90089)
 
 Authors: 
 
